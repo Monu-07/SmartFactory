@@ -1,0 +1,12 @@
+bin/
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# OS generated files
+.DS_Store
+Thumbs.db
